@@ -1,2 +1,2 @@
-Print ('hello all')
-How are you?
+print ('hello all')
+print ('How are you')
